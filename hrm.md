@@ -30,7 +30,7 @@
     JobDao：提供对job_inf表的基本操作
     EmployeeDao：提供对employee_inf表的基本操作
     DocumentDao：提供对doucment_inf表的基本操作
-
+    关联
     Dept和Employee之间存在1对N的关系
     Employee和Dept之间存在N对1的关系
     Employee和Job之间存在N对1的关系
